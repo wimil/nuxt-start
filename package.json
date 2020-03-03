@@ -1,0 +1,24 @@
+{
+  "name": "panel",
+  "version": "1.0.0",
+  "description": "My luminous Nuxt.js project",
+  "author": "rldev",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@mdi/font": "^4.9.95",
+    "@nuxtjs/auth": "^4.8.5",
+    "@nuxtjs/axios": "^5.3.6",
+    "nuxt": "^2.0.0",
+    "vee-validate": "^3.2.5",
+    "vuex-persistedstate": "^2.7.1"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.0.0"
+  }
+}
